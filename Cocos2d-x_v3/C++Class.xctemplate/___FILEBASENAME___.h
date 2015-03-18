@@ -14,10 +14,10 @@
 class ___FILEBASENAMEASIDENTIFIER___
 {
 public:
-
-protected:
     ___FILEBASENAMEASIDENTIFIER___();
     virtual ~___FILEBASENAMEASIDENTIFIER___();
+
+protected:
 
 private:
 
