@@ -22,7 +22,8 @@ ___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
 
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
-    if ( !Sprite::init() ) {
+    if ( !Sprite::init() )
+    {
         return false;
     }
 

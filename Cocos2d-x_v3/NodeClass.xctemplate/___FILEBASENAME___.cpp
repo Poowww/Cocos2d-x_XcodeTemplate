@@ -22,7 +22,8 @@ ___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
 
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
-    if ( !Node::init() ) {
+    if ( !Node::init() )
+    {
         return false;
     }
 

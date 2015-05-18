@@ -30,7 +30,8 @@ ___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
 
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
-    if ( !Layer::init() ) {
+    if ( !Layer::init() )
+    {
         return false;
     }
 
