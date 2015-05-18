@@ -11,7 +11,7 @@
 
 #include "cocos2d.h"
 
-class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::Sprite
+class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::Node
 {
 public:
     CREATE_FUNC(___FILEBASENAMEASIDENTIFIER___);
