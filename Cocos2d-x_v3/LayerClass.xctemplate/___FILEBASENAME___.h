@@ -15,10 +15,10 @@ class ___FILEBASENAMEASIDENTIFIER___ : public cocos2d::Layer
 {
 public:
     CREATE_FUNC(___FILEBASENAMEASIDENTIFIER___);
+    virtual ~___FILEBASENAMEASIDENTIFIER___();
 
 protected:
     ___FILEBASENAMEASIDENTIFIER___();
-    virtual ~___FILEBASENAMEASIDENTIFIER___();
     virtual bool init() override;
 
 private:
